@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "choice1": "def",
+    "choice2": "function",
+    "choice3": "define",
+    "choice4": "fun",
+    "answer": 1
+  },
+  {
+    "question": "How do you declare a variable in C++?",
+    "choice1": "var",
+    "choice2": "int",
+    "choice3": "variable",
+    "choice4": "dec",
+    "answer": 2
+  },
+  {
+    "question": "In C, what is the symbol used for single-line comments?",
+    "choice1": "//",
+    "choice2": "/*",
+    "choice3": "#",
+    "choice4": "--",
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used for inheritance in Java?",
+    "choice1": "inherits",
+    "choice2": "extends",
+    "choice3": "inherit",
+    "choice4": "ext",
+    "answer": 2
+  },
+  {
+    "question": "How do you print 'Hello, World!' in Python?",
+    "choice1": "print('Hello, World!');",
+    "choice2": "echo 'Hello, World!';",
+    "choice3": "System.out.println('Hello, World!');",
+    "choice4": "cout << 'Hello, World!' << endl;",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct way to declare an integer variable in C++?",
+    "choice1": "integer num;",
+    "choice2": "int num;",
+    "choice3": "num int;",
+    "choice4": "declare num as integer;",
+    "answer": 2
+  },
+  {
+    "question": "Which symbol is used to denote a pointer in C?",
+    "choice1": "&",
+    "choice2": "*",
+    "choice3": "^",
+    "choice4": "#",
+    "answer": 2
+  },
+  {
+    "question": "How do you declare a constant in Java?",
+    "choice1": "final",
+    "choice2": "const",
+    "choice3": "let",
+    "choice4": "var",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for a 'for' loop in Python?",
+    "choice1": "for i in range(5)",
+    "choice2": "for (int i = 0; i < 5; i++)",
+    "choice3": "for i = 0; i < 5; i++",
+    "choice4": "for (i = 0; i < 5)",
+    "answer": 1
+  },
+  {
+    "question": "What is the keyword used to define a function in C?",
+    "choice1": "define",
+    "choice2": "func",
+    "choice3": "def",
+    "choice4": "void",
+    "answer": 4
+  }
+]
